@@ -1,0 +1,9 @@
+.wrapper {
+    height: var(--default-layout-header-high, 60px);
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px;
+}
+
+.inner {
+    height: 100%;
+    width: var(--default-layout-width);
+}
